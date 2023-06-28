@@ -1,5 +1,4 @@
 # CodePathPrework
- # CodePath-Prework
 CodePath IOS Development Prework
 The following repository contains the prework for CodePath IOS Development prework. It shows an IOS app running with 3 labels and 1 button. 
 It also consists a screen which changes background when the button is tapped
