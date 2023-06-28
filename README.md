@@ -25,7 +25,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/riddhidange/CodePath-Prework/blob/main/CodePathPrework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/riddhidange/CodePathPrework/blob/main/CodePathPrework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## App Brainstorming (Step 4)
